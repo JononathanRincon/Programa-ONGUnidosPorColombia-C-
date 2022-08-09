@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\bin\Debug\ONGUnidosPorColombia.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\bin\Debug\ONGUnidosPorColombia.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\bin\Debug\ONGUnidosPorColombia.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.Login.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\ONGUnidosPorColombia\ONGUnidosPorColombia\obj\Debug\ONGUnidosPorColombia.ONG_Unidos_en_colombia.resources
